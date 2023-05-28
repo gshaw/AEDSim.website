@@ -1,0 +1,35 @@
+# Site settings
+title: Land Nav
+description: A land navigation tool built for iOS. No ads. Privacy respected.
+url: https://landnav.app
+author:
+  name: Gerry Shaw
+  email: gerry_shaw@yahoo.com
+
+# Build settings
+markdown: kramdown
+
+kramdown:
+  input: GFM
+
+exclude: [
+  "Gemfile",
+  "Gemfile.lock",
+  "justfile",
+  "LICENSE",
+  "README.md"
+]
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
