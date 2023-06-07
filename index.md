@@ -1,11 +1,11 @@
 ---
-title: AED Simulator
+title: AED Sim - Defibrillator Simulator
 ogimage: /icon.png
 ---
 
-Realistic AED simulator for CPR training.
+Realistic AED simulator for iOS.
 
-<img alt="Screenshot of AED Simulator" src="screenshots/1.png" width="300">
+<img alt="Screenshot of AED Sim" src="screenshots/1.png" width="300">
 
 ## Features
 
@@ -22,7 +22,7 @@ An AED is a device used to provide a shock of electricity to somebody in cardiac
 
 This app is designed to give people a chance to see, hear and interact with an AED. If you have ever been curious as to how one operates now is your chance.
 
-The built-in scenario editor lets you create a custom scenario or it can generate a random scenario for you. Combine an iPod Touch or iPhone, AED Simulator and a pair of electrode pads and you've got an inexpensive realistic training environment for practicing CPR with AED without the need for costly AED trainers.
+The built-in scenario editor lets you create a custom scenario or it can generate a random scenario for you. Combine an iPod Touch or iPhone, AED Sim and a set of electrode pads and you've got an inexpensive realistic training environment for practicing CPR with AED without the need for costly AED trainers.
 
 Designed and built by a former Canadian ambulance paramedic with 20 years of software development experience.
 
