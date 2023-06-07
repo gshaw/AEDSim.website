@@ -5,7 +5,14 @@ ogimage: /icon.png
 
 Realistic AED simulator for iOS.
 
-<img alt="Screenshot of AED Sim" src="screenshots/1.png" width="300">
+<div>
+<img alt="AED Sim with default orange background in push shock state" src="screenshots/1.png" width="300">
+<img alt="AED Sim with digital background in off state" src="screenshots/2.png" width="300">
+<video style="display:inline" controls="" alt="Demo of AED Sim" src="screenshots/6.mp4" width="300"></video>
+<img alt="AED Sim settings screen" src="screenshots/3.png" width="300">
+<img alt="AED Sim scenario screen" src="screenshots/4.png" width="300">
+<img alt="AED Sim state editor screen" src="screenshots/5.png" width="300">
+</div>
 
 ## Features
 
