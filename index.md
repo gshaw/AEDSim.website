@@ -39,10 +39,6 @@ The built-in scenario editor lets you create a custom scenario or it can generat
 
 Designed and built by a former Canadian paramedic with 20 years of software development experience.
 
-## Important
-
-AED Sim is still getting ready for release but an older earlier version known as iDefibrillate is available. If you buy iDefibrillate you will get the newer version for free once it becomes available.
-
 <div>
 <a href="https://apps.apple.com/us/app/idefibrillate-aed-simulator/id359990739?itsct=apps_box_badge&amp;itscg=30200" style="overflow: hidden; border-radius: 13px; width: 250px; height: 83px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1412812800" alt="Download on the App Store" style="border-radius: 13px; width: 250px; height: 83px;"></a>
 
