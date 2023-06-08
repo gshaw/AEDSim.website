@@ -2,7 +2,7 @@
 
 [https://aedsim.com](https://aedsim.com)
 
-<img alt="Screenshot of AED Sim" src="screenshots/1.png" width="300">
+<img alt="Screenshot of AED Sim" src="screenshots/1.jpg" width="300">
 
 ### Build Instructions
 
