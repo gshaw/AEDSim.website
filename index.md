@@ -9,7 +9,7 @@ Realistic AED simulator for iOS.
 <img alt="AED Sim with default orange background in push shock state" src="screenshots/1.jpg" width="300">
 <img alt="AED Sim with digital background in off state" src="screenshots/2.jpg" width="300">
 <video style="display:inline-block; width: 300px" controls alt="Demo of AED Sim">
-  <source src="screenshots/6.mov" type="video/mp4">
+  <source src="screenshots/6.mov#t=0.001" type="video/mp4">
   Your browser does not support the video tag.
  </video>
 <img alt="AED Sim settings screen" src="screenshots/3.jpg" width="300">
