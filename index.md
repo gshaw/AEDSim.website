@@ -42,5 +42,5 @@ Designed and built by a former Canadian paramedic with 20 years of software deve
 <div>
 <a href="https://apps.apple.com/us/app/idefibrillate-aed-simulator/id359990739?itsct=apps_box_badge&amp;itscg=30200" style="overflow: hidden; border-radius: 13px; width: 250px; height: 83px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1412812800" alt="Download on the App Store" style="border-radius: 13px; width: 250px; height: 83px;"></a>
 
-<img style="padding:10px; width: 120px; height: 120px" alt="QR Code Download Link" src="https://tools-qr-production.s3.amazonaws.com/output/apple-toolbox/258db9b681d90a1715dbafa4a3305746/b7142da490218d87c633123f4d5dfd92.png">
+<img style="padding:10px; width: 120px; height: 120px" alt="QR Code Download Link" src="/qrcode.png">
 </div>
