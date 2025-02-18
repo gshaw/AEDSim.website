@@ -1,7 +1,7 @@
 # Site settings
-title: Land Nav
-description: A land navigation tool built for iOS. No ads. Privacy respected.
-url: https://landnav.app
+title: AED Sim
+description: A automatic external defibrillator (AED) simulator built for iOS. No ads. Privacy respected.
+url: https://aedsim.com
 author:
   name: Gerry Shaw
   email: gerry_shaw@yahoo.com
@@ -15,7 +15,6 @@ kramdown:
 exclude: [
   "Gemfile",
   "Gemfile.lock",
-  "justfile",
   "LICENSE",
   "README.md"
 ]
