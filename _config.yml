@@ -1,10 +1,13 @@
 # Site settings
 title: AED Sim
-description: A automatic external defibrillator (AED) simulator built for iOS. No ads. Privacy respected.
+description: An automated external defibrillator (AED) simulator for iPhone and iPad. No ads. Privacy respected.
 url: https://aedsim.com
+icon: /icon.png
+start_year: 2010
 author:
   name: Gerry Shaw
   email: gerry_shaw@yahoo.com
+  url: https://gshaw.ca
 
 # Build settings
 markdown: kramdown
@@ -13,22 +16,19 @@ kramdown:
   input: GFM
 
 exclude: [
+  "AGENTS.md",
+  "CLAUDE.md",
+  "cspell.config.yaml",
   "Gemfile",
   "Gemfile.lock",
   "LICENSE",
-  "README.md"
+  "README.md",
+  "vendor"
 ]
 
 defaults:
-  -
-    scope:
+  - scope:
       path: ""
       type: "pages"
     values:
       layout: "page"
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
