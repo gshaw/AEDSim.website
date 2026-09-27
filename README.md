@@ -4,31 +4,21 @@
 
 <img alt="Screenshot of AED Sim" src="screenshots/1.jpg" width="300">
 
-### Build Instructions
+## Develop
 
-```
-brew install asdf
-asdf list
-asdf plugin add ruby
-asdf plugin-update ruby
-asdf list all ruby
-asdf install ruby latest
-asdf global ruby 3.2.2 # change specfic version to latest stable
-gem install bundler
-bundle add webrick # https://github.com/jekyll/jekyll/issues/8523
-
-brew install just
-just -l
-just install
-just start
+```sh
+mise install       # Ruby, Node, cspell, markdownlint, html-proofer
+mise run install   # bundle install
+mise run dev       # http://localhost:4005 with livereload
+mise run check     # build, spell check, markdown lint, internal links
 ```
 
-Pushing to GitHub will publish the site on CloudFlare.
+Pushing to `main` publishes the site on Cloudflare Pages. `mise run verify` checks the live site afterwards.
 
-### Powered By
+## Powered By
 
 - Domain Register: [Namecheap](https://www.namecheap.com)
-- DNS: [CloudFlare DNS](https://www.cloudflare.com/dns/)
-- Hosting: [CloudFlare Pages](https://pages.cloudflare.com)
+- DNS: [Cloudflare DNS](https://www.cloudflare.com/dns/)
+- Hosting: [Cloudflare Pages](https://pages.cloudflare.com)
 - Build System: [Jekyll](https://jekyllrb.com)
 - CSS: [Pico.css](https://picocss.com)
