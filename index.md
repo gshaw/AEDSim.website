@@ -42,5 +42,5 @@ Designed and built by a former Canadian paramedic with 20 years of software deve
 <div>
 <a href="https://apps.apple.com/app/aed-sim/id359990739" style="overflow: hidden; border-radius: 13px; width: 250px; height: 83px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1412812800" alt="Download on the App Store" style="border-radius: 13px; width: 250px; height: 83px;"></a>
 
-<img style="padding:10px; width: 120px; height: 120px" alt="QR Code Download Link" src="/qrcode.png">
+<img style="width: 160px; height: 160px; vertical-align: middle" alt="QR code: scan to get AED Sim on the App Store" src="/qrcode.svg">
 </div>
