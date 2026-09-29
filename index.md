@@ -39,8 +39,8 @@ The built-in scenario editor lets you create a custom scenario or it can generat
 
 Designed and built by a former Canadian paramedic with 20 years of software development experience.
 
-<div>
+<div style="display: flex; flex-wrap: wrap; align-items: center; gap: 1rem">
 <a href="https://apps.apple.com/app/aed-sim/id359990739" style="overflow: hidden; border-radius: 13px; width: 250px; height: 83px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1412812800" alt="Download on the App Store" style="border-radius: 13px; width: 250px; height: 83px;"></a>
 
-<img style="width: 160px; height: 160px; vertical-align: middle" alt="QR code: scan to get AED Sim on the App Store" src="/qrcode.svg">
+<img style="width: 160px; height: 160px" alt="QR code: scan to get AED Sim on the App Store" src="/qrcode.svg">
 </div>
