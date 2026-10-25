@@ -5,16 +5,13 @@ allowCompoundWords: true
 ignorePaths:
   - ".git"
   - ".claude"
-  - "_site"
-  - ".jekyll-cache"
-  - "vendor"
-  - "Gemfile.lock"
+  - "public"
+  - "resources"
   - "pico.min.css"
-  - "devlog.md" # historical record, kept as written
+  - "content/devlog.md" # historical record, kept as written
 words:
   - aedsim
   - gshaw
-  - kramdown
   - aedsimulator # Cloudflare Pages project name
   - ogimage # front matter key for the Open Graph image
   - pico
