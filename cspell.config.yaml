@@ -12,7 +12,7 @@ ignorePaths:
 words:
   - aedsim
   - gshaw
-  - aedsimulator # Cloudflare Pages project name
+  - aedsimulator # the Worker's name, from the old Pages project
   - ogimage # front matter key for the Open Graph image
   - pico
   - qrcode
