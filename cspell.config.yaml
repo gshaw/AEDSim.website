@@ -10,6 +10,7 @@ ignorePaths:
   - "pico.min.css"
   - "content/devlog.md" # historical record, kept as written
 words:
+  - devhost
   - aedsim
   - gshaw
   - aedsimulator # the Worker's name, from the old Pages project
